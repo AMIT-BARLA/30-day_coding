@@ -1,1 +1,1 @@
-# 30-day_coding
+# 30-day_coding_challenge
