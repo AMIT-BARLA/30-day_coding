@@ -36,5 +36,6 @@ public class addOneToNumber_Day1 {
         if( rem == 1){ // example:- 9999 So, all will become '0' and 1 will be added in the index '0'
             A.add(0,1);
         }
+
     }
 }
